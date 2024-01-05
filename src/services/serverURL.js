@@ -1,0 +1,1 @@
+export const serverURL = 'https://jsonserver-2rie.onrender.com';
